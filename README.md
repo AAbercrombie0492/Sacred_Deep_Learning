@@ -13,6 +13,9 @@ Since Neural Networks can take a long time to train, it's also nice to be able
 to monitor and visualize training progress with tools such as <a target="_blank" href="https://www.tensorflow.org/get_started/summaries_and_tensorboard">TensorBoard</a>
 and even <a target="_blank" href="https://www.tensorflow.org/get_started/summaries_and_tensorboard">SacredBoard</a>
 
+
+![sacredboard_screenshot](images/sacredboard_screenshot.png)
+
 ![sacredboard](images/sacredboard.png)
 
 ![tensorboard](images/tensorboard.png)
