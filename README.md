@@ -13,6 +13,10 @@ Since Neural Networks can take a long time to train, it's also nice to be able
 to monitor and visualize training progress with tools such as <a target="_blank" href="https://www.tensorflow.org/get_started/summaries_and_tensorboard">TensorBoard</a>
 and even <a target="_blank" href="https://www.tensorflow.org/get_started/summaries_and_tensorboard">SacredBoard</a>
 
+![sacredboard](images/sacredboard.png)
+
+![tensorboard](images/tensorboard.png)
+
 This repo demonstrates how to create a system that implements these tools in the
 context of training an image classifier in Keras.
 See the notebook ```PROJ_ROOT/notebooks/Sacred_Experiments.ipynb``` for an implementation example.
