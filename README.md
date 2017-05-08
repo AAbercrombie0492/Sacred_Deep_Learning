@@ -23,7 +23,12 @@ my code references environment variables stored in an .env file. NEVER ADD YOUR 
 Here's how you can identify your own .env variables for easy reproducibility:
 
 ```bash
-asjd;lkgj;dsaglkjsa;dlkjg;sdaljgl;kasdj;
+image_dpath = /ubuntu/users/Sacred_Deep_Learning/data/images
+train_dpath = /ubuntu/users/Sacred_Deep_Learning/data/images/train
+test_dpath = /ubuntu/users/Sacred_Deep_Learning/data/images/test
+val_dpath = /ubuntu/users/Sacred_Deep_Learning/data/images/val
+
+
 ```
 
 Here's how you load environment variables within a Python script with the python-dotenv package.
